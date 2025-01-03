@@ -1,6 +1,11 @@
 # Diode Lasers Measurements
 
-This repository has measurment results for several laser diodes in the region of visible and near infrared. Results available inclued: optical power vs applied current, optical power vs tempearture.
+This repository has measurment results for some laser diodes in the region of visible and near infrared. Results available inclued:
+- optical power vs applied current;
+- internal photodiode current vs applied current;
+- optical power vs tempearture;
+- intensity vs angle;
+- polarisation vs angle.
 The equipment used to perform the measurments and respective processing is briefly explained in the results files.
 
 List of laser measured (by wavelength):
